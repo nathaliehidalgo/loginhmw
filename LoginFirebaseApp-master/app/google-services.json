@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "835752011854",
+    "project_id": "logintest-f1053",
+    "storage_bucket": "logintest-f1053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835752011854:android:14f2154b7b3e47bbe8fb1f",
+        "android_client_info": {
+          "package_name": "com.example.googlelogintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835752011854-80h4g5r4dbq73kh3ehignj3rdl9aaeca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOW6CjYZjl5DyWnHbiook56ZP8elPbDy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835752011854-80h4g5r4dbq73kh3ehignj3rdl9aaeca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835752011854:android:245ef63922d659e4e8fb1f",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.loginfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835752011854-80h4g5r4dbq73kh3ehignj3rdl9aaeca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOW6CjYZjl5DyWnHbiook56ZP8elPbDy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835752011854-80h4g5r4dbq73kh3ehignj3rdl9aaeca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

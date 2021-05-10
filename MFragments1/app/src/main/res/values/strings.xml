@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MFragments1</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+</resources>
